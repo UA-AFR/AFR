@@ -1,2 +1,2 @@
 import AFR_PRO
-AFR_PRO.veero()
+AFR_PRO.veerobuy()
